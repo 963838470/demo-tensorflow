@@ -8,3 +8,4 @@ mul = tf.multiply(input1, intermed)
 with tf.Session() as sess:
     result = sess.run([mul, intermed])
     print(result)
+wojiusua
